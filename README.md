@@ -4,4 +4,5 @@ DEPI Initiative - Vulnerability Analyst and Penetration Tester
 - Tarek Mohamed Ahmed  
 - Mazen Ahmed Mohamed  
 - Mohamed Ragab Rashad  
-- Aya Mohamed Abdelhalim  
+- Aya Mohamed Abdelhalim
+- Hassan Sayed Awad
